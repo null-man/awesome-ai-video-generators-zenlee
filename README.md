@@ -33,6 +33,9 @@ Generate videos from text descriptions/prompts.
 |------|-----------|---------|------|
 | **Runway Gen-3** | High-quality cinematic generation, motion brush control | Freemium | [runway.com](https://runway.com) |
 | **GrokVideo Studio** | Independent Grok Imagine text/image-to-video (not affiliated with xAI/X); free trial credits | Free trial | [grokvideogenerator.dev](https://grokvideogenerator.dev) |
+| **Alors On Danse Video Maker** | Independent Grok Imagine text/image-to-video (not affiliated with xAI/X); Paid | Free trial | [alorsondansevideo.com](https://alorsondansevideo.com) |
+| **Bad Times AI** | Independent Grok Imagine text/image-to-video (not affiliated with xAI/X); Paid | Free trial | [badtimesai.dev](https://badtimesai.dev) |
+| **I Found You in the Crowd AI** | Independent Grok Imagine text/image-to-video (not affiliated with xAI/X); Paid | Free trial | [ifoundyouinthecrowdai.com](https://ifoundyouinthecrowdai.com) |
 | **Pika** | Fast iteration, lip-sync, scene modification | Freemium | [pika.art](https://pika.art) |
 | **Kling AI** | Long-form video up to 2min, strong motion coherence | Freemium | [klingai.com](https://klingai.com) |
 | **HeyVid** | All-in-one AI video creation with smart templates, supports batch generation and multi-language voiceover | Freemium | [heyvid.ai](https://heyvid.ai) |
